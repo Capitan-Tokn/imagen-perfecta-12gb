@@ -1,6 +1,6 @@
 # La imagen perfecta en 12 GB de VRAM · workflows de ComfyUI
 
-Los workflows de imagen del vídeo **«Tu PC hace imágenes como ChatGPT (si se lo pides bien)»** de [Capitán Tokn](https://www.youtube.com/@CapitanTokn), tal cual los uso.
+Los workflows de imagen del vídeo **[«Tu PC hace imágenes como ChatGPT (si se lo pides bien)»](https://youtu.be/nw4dVtujfNM)** de [Capitán Tokn](https://www.youtube.com/@CapitanTokn), tal cual los uso.
 Probados en una RTX 4070 de 12 GB con 32 GB de RAM.
 
 **[Descargar todo en un .zip](https://github.com/Capitan-Tokn/imagen-perfecta-12gb/raw/main/CapitanTokn_imagen_perfecta_12GB.zip)**
